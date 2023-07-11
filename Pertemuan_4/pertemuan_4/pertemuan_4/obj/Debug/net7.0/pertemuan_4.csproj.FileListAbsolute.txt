@@ -1,0 +1,30 @@
+/Users/nikenlismiati/Documents/C#/Pertemuan_4/pertemuan_4/pertemuan_4/obj/Debug/net7.0/pertemuan_4.csproj.AssemblyReference.cache
+/Users/nikenlismiati/Documents/C#/Pertemuan_4/pertemuan_4/pertemuan_4/obj/Debug/net7.0/pertemuan_4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikenlismiati/Documents/C#/Pertemuan_4/pertemuan_4/pertemuan_4/obj/Debug/net7.0/pertemuan_4.AssemblyInfoInputs.cache
+/Users/nikenlismiati/Documents/C#/Pertemuan_4/pertemuan_4/pertemuan_4/obj/Debug/net7.0/pertemuan_4.AssemblyInfo.cs
+/Users/nikenlismiati/Documents/C#/Pertemuan_4/pertemuan_4/pertemuan_4/obj/Debug/net7.0/pertemuan_4.csproj.CoreCompileInputs.cache
+/Users/nikenlismiati/Documents/C#/Pertemuan_4/pertemuan_4/pertemuan_4/bin/Debug/net7.0/pertemuan_4
+/Users/nikenlismiati/Documents/C#/Pertemuan_4/pertemuan_4/pertemuan_4/bin/Debug/net7.0/pertemuan_4.deps.json
+/Users/nikenlismiati/Documents/C#/Pertemuan_4/pertemuan_4/pertemuan_4/bin/Debug/net7.0/pertemuan_4.runtimeconfig.json
+/Users/nikenlismiati/Documents/C#/Pertemuan_4/pertemuan_4/pertemuan_4/bin/Debug/net7.0/pertemuan_4.dll
+/Users/nikenlismiati/Documents/C#/Pertemuan_4/pertemuan_4/pertemuan_4/bin/Debug/net7.0/pertemuan_4.pdb
+/Users/nikenlismiati/Documents/C#/Pertemuan_4/pertemuan_4/pertemuan_4/obj/Debug/net7.0/pertemuan_4.dll
+/Users/nikenlismiati/Documents/C#/Pertemuan_4/pertemuan_4/pertemuan_4/obj/Debug/net7.0/refint/pertemuan_4.dll
+/Users/nikenlismiati/Documents/C#/Pertemuan_4/pertemuan_4/pertemuan_4/obj/Debug/net7.0/pertemuan_4.pdb
+/Users/nikenlismiati/Documents/C#/Pertemuan_4/pertemuan_4/pertemuan_4/obj/Debug/net7.0/pertemuan_4.genruntimeconfig.cache
+/Users/nikenlismiati/Documents/C#/Pertemuan_4/pertemuan_4/pertemuan_4/obj/Debug/net7.0/ref/pertemuan_4.dll
+/Users/nikenlismiati/Documents/KULIAH/C#/C# dasar/Pertemuan_4/pertemuan_4/pertemuan_4/bin/Debug/net7.0/pertemuan_4
+/Users/nikenlismiati/Documents/KULIAH/C#/C# dasar/Pertemuan_4/pertemuan_4/pertemuan_4/bin/Debug/net7.0/pertemuan_4.deps.json
+/Users/nikenlismiati/Documents/KULIAH/C#/C# dasar/Pertemuan_4/pertemuan_4/pertemuan_4/bin/Debug/net7.0/pertemuan_4.runtimeconfig.json
+/Users/nikenlismiati/Documents/KULIAH/C#/C# dasar/Pertemuan_4/pertemuan_4/pertemuan_4/bin/Debug/net7.0/pertemuan_4.dll
+/Users/nikenlismiati/Documents/KULIAH/C#/C# dasar/Pertemuan_4/pertemuan_4/pertemuan_4/bin/Debug/net7.0/pertemuan_4.pdb
+/Users/nikenlismiati/Documents/KULIAH/C#/C# dasar/Pertemuan_4/pertemuan_4/pertemuan_4/obj/Debug/net7.0/pertemuan_4.csproj.AssemblyReference.cache
+/Users/nikenlismiati/Documents/KULIAH/C#/C# dasar/Pertemuan_4/pertemuan_4/pertemuan_4/obj/Debug/net7.0/pertemuan_4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikenlismiati/Documents/KULIAH/C#/C# dasar/Pertemuan_4/pertemuan_4/pertemuan_4/obj/Debug/net7.0/pertemuan_4.AssemblyInfoInputs.cache
+/Users/nikenlismiati/Documents/KULIAH/C#/C# dasar/Pertemuan_4/pertemuan_4/pertemuan_4/obj/Debug/net7.0/pertemuan_4.AssemblyInfo.cs
+/Users/nikenlismiati/Documents/KULIAH/C#/C# dasar/Pertemuan_4/pertemuan_4/pertemuan_4/obj/Debug/net7.0/pertemuan_4.csproj.CoreCompileInputs.cache
+/Users/nikenlismiati/Documents/KULIAH/C#/C# dasar/Pertemuan_4/pertemuan_4/pertemuan_4/obj/Debug/net7.0/pertemuan_4.dll
+/Users/nikenlismiati/Documents/KULIAH/C#/C# dasar/Pertemuan_4/pertemuan_4/pertemuan_4/obj/Debug/net7.0/refint/pertemuan_4.dll
+/Users/nikenlismiati/Documents/KULIAH/C#/C# dasar/Pertemuan_4/pertemuan_4/pertemuan_4/obj/Debug/net7.0/pertemuan_4.pdb
+/Users/nikenlismiati/Documents/KULIAH/C#/C# dasar/Pertemuan_4/pertemuan_4/pertemuan_4/obj/Debug/net7.0/pertemuan_4.genruntimeconfig.cache
+/Users/nikenlismiati/Documents/KULIAH/C#/C# dasar/Pertemuan_4/pertemuan_4/pertemuan_4/obj/Debug/net7.0/ref/pertemuan_4.dll

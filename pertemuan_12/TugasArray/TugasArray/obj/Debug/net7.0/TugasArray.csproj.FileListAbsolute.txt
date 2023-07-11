@@ -1,0 +1,15 @@
+/Users/nikenlismiati/Documents/KULIAH/C#/C#Tugas/Tugas_Array/TugasArray/TugasArray/obj/Debug/net7.0/TugasArray.csproj.AssemblyReference.cache
+/Users/nikenlismiati/Documents/KULIAH/C#/C#Tugas/Tugas_Array/TugasArray/TugasArray/obj/Debug/net7.0/TugasArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikenlismiati/Documents/KULIAH/C#/C#Tugas/Tugas_Array/TugasArray/TugasArray/obj/Debug/net7.0/TugasArray.AssemblyInfoInputs.cache
+/Users/nikenlismiati/Documents/KULIAH/C#/C#Tugas/Tugas_Array/TugasArray/TugasArray/obj/Debug/net7.0/TugasArray.AssemblyInfo.cs
+/Users/nikenlismiati/Documents/KULIAH/C#/C#Tugas/Tugas_Array/TugasArray/TugasArray/obj/Debug/net7.0/TugasArray.csproj.CoreCompileInputs.cache
+/Users/nikenlismiati/Documents/KULIAH/C#/C#Tugas/Tugas_Array/TugasArray/TugasArray/bin/Debug/net7.0/TugasArray
+/Users/nikenlismiati/Documents/KULIAH/C#/C#Tugas/Tugas_Array/TugasArray/TugasArray/bin/Debug/net7.0/TugasArray.deps.json
+/Users/nikenlismiati/Documents/KULIAH/C#/C#Tugas/Tugas_Array/TugasArray/TugasArray/bin/Debug/net7.0/TugasArray.runtimeconfig.json
+/Users/nikenlismiati/Documents/KULIAH/C#/C#Tugas/Tugas_Array/TugasArray/TugasArray/bin/Debug/net7.0/TugasArray.dll
+/Users/nikenlismiati/Documents/KULIAH/C#/C#Tugas/Tugas_Array/TugasArray/TugasArray/bin/Debug/net7.0/TugasArray.pdb
+/Users/nikenlismiati/Documents/KULIAH/C#/C#Tugas/Tugas_Array/TugasArray/TugasArray/obj/Debug/net7.0/TugasArray.dll
+/Users/nikenlismiati/Documents/KULIAH/C#/C#Tugas/Tugas_Array/TugasArray/TugasArray/obj/Debug/net7.0/refint/TugasArray.dll
+/Users/nikenlismiati/Documents/KULIAH/C#/C#Tugas/Tugas_Array/TugasArray/TugasArray/obj/Debug/net7.0/TugasArray.pdb
+/Users/nikenlismiati/Documents/KULIAH/C#/C#Tugas/Tugas_Array/TugasArray/TugasArray/obj/Debug/net7.0/TugasArray.genruntimeconfig.cache
+/Users/nikenlismiati/Documents/KULIAH/C#/C#Tugas/Tugas_Array/TugasArray/TugasArray/obj/Debug/net7.0/ref/TugasArray.dll

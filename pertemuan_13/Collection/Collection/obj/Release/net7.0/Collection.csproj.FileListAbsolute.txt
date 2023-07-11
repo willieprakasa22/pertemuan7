@@ -1,0 +1,15 @@
+/Users/nikenlismiati/Documents/KULIAH/C#/C#Tugas/Tugas_collection/Collection/Collection/bin/Release/net7.0/Collection
+/Users/nikenlismiati/Documents/KULIAH/C#/C#Tugas/Tugas_collection/Collection/Collection/bin/Release/net7.0/Collection.deps.json
+/Users/nikenlismiati/Documents/KULIAH/C#/C#Tugas/Tugas_collection/Collection/Collection/bin/Release/net7.0/Collection.runtimeconfig.json
+/Users/nikenlismiati/Documents/KULIAH/C#/C#Tugas/Tugas_collection/Collection/Collection/bin/Release/net7.0/Collection.dll
+/Users/nikenlismiati/Documents/KULIAH/C#/C#Tugas/Tugas_collection/Collection/Collection/bin/Release/net7.0/Collection.pdb
+/Users/nikenlismiati/Documents/KULIAH/C#/C#Tugas/Tugas_collection/Collection/Collection/obj/Release/net7.0/Collection.csproj.AssemblyReference.cache
+/Users/nikenlismiati/Documents/KULIAH/C#/C#Tugas/Tugas_collection/Collection/Collection/obj/Release/net7.0/Collection.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikenlismiati/Documents/KULIAH/C#/C#Tugas/Tugas_collection/Collection/Collection/obj/Release/net7.0/Collection.AssemblyInfoInputs.cache
+/Users/nikenlismiati/Documents/KULIAH/C#/C#Tugas/Tugas_collection/Collection/Collection/obj/Release/net7.0/Collection.AssemblyInfo.cs
+/Users/nikenlismiati/Documents/KULIAH/C#/C#Tugas/Tugas_collection/Collection/Collection/obj/Release/net7.0/Collection.csproj.CoreCompileInputs.cache
+/Users/nikenlismiati/Documents/KULIAH/C#/C#Tugas/Tugas_collection/Collection/Collection/obj/Release/net7.0/Collection.dll
+/Users/nikenlismiati/Documents/KULIAH/C#/C#Tugas/Tugas_collection/Collection/Collection/obj/Release/net7.0/refint/Collection.dll
+/Users/nikenlismiati/Documents/KULIAH/C#/C#Tugas/Tugas_collection/Collection/Collection/obj/Release/net7.0/Collection.pdb
+/Users/nikenlismiati/Documents/KULIAH/C#/C#Tugas/Tugas_collection/Collection/Collection/obj/Release/net7.0/Collection.genruntimeconfig.cache
+/Users/nikenlismiati/Documents/KULIAH/C#/C#Tugas/Tugas_collection/Collection/Collection/obj/Release/net7.0/ref/Collection.dll
